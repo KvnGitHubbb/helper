@@ -1,0 +1,3 @@
+https://gist.github.com/wcarhart/8d897d723ba6cd2af75115c38427e233
+
+list of python tricks
